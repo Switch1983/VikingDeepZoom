@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<SceneGraph version="1">
+  <AspectRatio>2</AspectRatio>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45n045.png</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>1</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45n135.png</FileName>
+    <x>0.25</x>
+    <y>0</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>2</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45n225.png</FileName>
+    <x>0.5</x>
+    <y>0</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>3</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45n315.png</FileName>
+    <x>0.75</x>
+    <y>0</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>4</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45s045.png</FileName>
+    <x>0</x>
+    <y>0.5</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>5</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45s135.png</FileName>
+    <x>0.25</x>
+    <y>0.5</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>6</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45s225.png</FileName>
+    <x>0.5</x>
+    <y>0.5</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>7</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\Darren\Documents\Expression\Deep Zoom Composer Projects\viking merged colour\Source Images\mars45s315.png</FileName>
+    <x>0.75</x>
+    <y>0.5</y>
+    <Width>0.25</Width>
+    <Height>0.5</Height>
+    <ZOrder>8</ZOrder>
+  </SceneNode>
+</SceneGraph>
